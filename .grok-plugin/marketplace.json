@@ -281,17 +281,17 @@
       "keywords": ["browser use", "browser-use", "browser use cloud"],
       "domains": ["browser-use.com", "cloud.browser-use.com"]
     }
-     {
-  "name": "brain-bank",
-  "description": "Memória persistente local em markdown para qualquer IA via MCP. Nunca mais comece uma conversa do zero.",
-  "category": "productivity",
-  "source": {
-    "source": "url",
-    "url": "https://github.com/jorge13en-droid/Brain-Bank-MCP.git",
-    "sha": "57b9dce50829e96827da86af464a1c1f95623871"
-     },
-  "homepage": "https://github.com/jorge13en-droid/Brain-Bank-MCP",
-  "keywords": ["brain-bank", "memoria-persistente", "memory", "mcp", "markdown"]
-    }  
+         {
+      "name": "brain-bank",
+      "description": "Memória persistente local em markdown para qualquer IA via MCP. Nunca mais comece uma conversa do zero.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jorge13en-droid/Brain-Bank-MCP.git",
+        "sha": "670b4cfe38a4fa14d34e54cebd3494d7810da6f7"
+      },
+      "homepage": "https://github.com/jorge13en-droid/Brain-Bank-MCP",
+      "keywords": ["brain-bank", "memoria-persistente", "memory", "mcp", "markdown"]
+    }
   ]  
 }
