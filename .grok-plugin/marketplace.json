@@ -280,7 +280,7 @@
       "homepage": "https://browser-use.com",
       "keywords": ["browser use", "browser-use", "browser use cloud"],
       "domains": ["browser-use.com", "cloud.browser-use.com"]
-    }
+    },
          {
       "name": "brain-bank",
       "description": "Memória persistente local em markdown para qualquer IA via MCP. Nunca mais comece uma conversa do zero.",
